@@ -1,0 +1,39 @@
+[
+  {
+    "nome":"Centro De Saúde Da Comunidade 806 Sul - Csc 806 Sul",
+    "endereco":"Q. 806 Sul Alameda 14 - Plano Diretor Sul, Palmas - TO, 77023-054",
+    "img":"https://lh5.googleusercontent.com/p/AF1QipPtB_DmlR0ad2kS1MU-459Ex9LLuh7QSATSfrrt=w203-h114-k-no",
+    "telefone":"+556332185487",
+    "servicos":[
+      "Atendimento",
+      "Acolhimento",
+      "Acompanhamento",
+      "Curativos",
+      "Saúde da Mulher"
+    ]
+  },
+  {
+    "nome":"CAPS II - Centro de Atenção Psicossocial",
+    "endereco":"Q. 804 Sul Alameda 10, 9 - Plano Diretor Sul, Palmas - TO, 77000-000",
+    "img":"https://lh5.googleusercontent.com/p/AF1QipNTaiNqQLHwT6SeqxNeslOyGUI0O_DSofrr1W38=w203-h134-k-no",
+    "telefone":"+556332185247",
+    "servicos":[
+      "Psicoterapia",
+      "Oficinas Terapêuticas",
+      "Atividades Comunitárias",
+      "Orientação e Acompanhamento do Uso de Medicação"
+    ]
+  },
+  {
+    "nome":"CEO - Centro de Especialidades Odontológicas",
+    "endereco":"APM 8 - Q. 704 Sul Alameda 1 - Plano Diretor Sul, Palmas - TO",
+    "img":"https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=kaD59seQg5-P-Gta5NKffg&cb_client=maps_sv.tactile.gps&w=203&h=100&yaw=180.95476&pitch=0&thumbfov=100",
+    "telefone":"+556332185320",
+    "servicos":[
+      "Dor de dente",
+      "Dentista",
+      "Prótese bucal",
+      "Obturação"
+    ]
+  }
+]
